@@ -1,0 +1,21 @@
+################################### node js #############################################
+second day of workshop->
+today topic is about command line:
+@@@@@@@@@@@@node package manager@@@@@@@@@@
+
+npm is installed with node js.
+npm install package in two modes:
+1.local(project level)
+2.global(system level)
+commands:
+npm -v
+npm -version
+...............www.npmjs.com......
+clear npm cache:
+npm cache clean --force
+
+
+
+
+
+
